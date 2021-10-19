@@ -1,2 +1,0 @@
-model_checkpoint_path: "relu_pm_model_weights.ckpt"
-all_model_checkpoint_paths: "relu_pm_model_weights.ckpt"
